@@ -1,3 +1,7 @@
+# PROJECT NO LONGER SUPPORTED
+
+Please do not use this. It is not maintained. v3 does have known vulnerabilities in it (it was an experimental branch).
+
 ## OWASP CSRFGuard 3.0
 
 [http://www.owasp.org/index.php/Category:OWASP_CSRFGuard_Project](http://www.owasp.org/index.php/Category:OWASP_CSRFGuard_Project)
